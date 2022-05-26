@@ -288,8 +288,5 @@ h3 {
   .Section-Heading {
     font-size: 1rem;
   }
-  .Img {
-    opacity: 1;
-  }
 }
 </style>

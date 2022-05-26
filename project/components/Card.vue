@@ -26,9 +26,6 @@ h2 {
 }
 .Img {
   width: 18%;
-  opacity: 0%;
-}
-.Img:hover {
   opacity: 1;
 }
 .Card {

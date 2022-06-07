@@ -108,48 +108,56 @@ export default {
           Ability: 'The Matchless Poet',
           Image:
             'https://i.pinimg.com/736x/16/ee/53/16ee531153f0313a3074025be6736422.jpg',
+          Des: '',
         },
         {
           Name: 'Ranpo Edogawa',
           Ability: 'Super Deduction',
           Image:
             'https://i.pinimg.com/736x/fb/a6/3e/fba63e8f50a6e6c6f2cf56001d6be3cc.jpg',
+          Des: '',
         },
         {
           Name: 'Akiko Yosano',
           Ability: 'Thou Shall Not Die',
           Image:
             'https://i.pinimg.com/736x/8d/ef/fe/8deffe48cffdb3295ead113ab01c0852.jpg',
+          Des: '',
         },
         {
           Name: 'Osamu Dazai',
           Ability: 'No Longer Human',
           Image:
             'https://i.pinimg.com/736x/40/3e/50/403e509fe0d8e8f127cf144746e0d97f.jpg',
+          Des: '',
         },
         {
           Name: 'Jun’ichiro Tanizaki',
           Ability: 'Light Snow',
           Image:
             'https://i.pinimg.com/236x/5f/a6/b0/5fa6b0cbce7e45500352acf648dfbf4c.jpg?nii=t',
+          Des: '',
         },
         {
           Name: 'Kenji Miyazawa',
           Ability: 'Undefeated by the Rain',
           Image:
             'https://i.pinimg.com/originals/3e/c0/9e/3ec09ebc50542b9d3bd7d88f79ca268a.jpg',
+          Des: '',
         },
         {
           Name: 'Atsushi Nakajima',
           Ability: 'Beast Beneath the Moonlight',
           Image:
             'https://i.pinimg.com/474x/34/33/e7/3433e7fb4dfbce6169bee580502040dd.jpg',
+          Des: '',
         },
         {
           Name: 'Kyoka Izumi',
           Ability: 'Demon Snow',
           Image:
             'https://i.pinimg.com/736x/76/d0/e4/76d0e4d6839bd3f1ab24fac6b5787cb3.jpg',
+          Des: '',
         },
       ],
     }

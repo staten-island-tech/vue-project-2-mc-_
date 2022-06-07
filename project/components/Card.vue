@@ -3,8 +3,8 @@
     <div class="Card">
       <h2>{{ Name }}</h2>
       <h2>Ability: {{ Ability }}</h2>
-      <img class="Img" :src="Image" alt="No Image Available" />
-      <h3></h3>
+      <img class="Img" :src="Image" alt="Alt" />
+      <div></div>
     </div>
   </div>
 </template>

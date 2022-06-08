@@ -3,7 +3,7 @@
     <div class="Card">
       <h2>{{ Name }}</h2>
       <h2>Ability: {{ Ability }}</h2>
-      <img class="Img" :src="Image" alt="Alt" />
+      <img class="Img" :src="Image" alt="Armed Detective Agency Member" />
       <div></div>
     </div>
   </div>
